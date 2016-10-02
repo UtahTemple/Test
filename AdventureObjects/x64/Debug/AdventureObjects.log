@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\michael temple\documents\test\adventureobjects\main.cpp(57): warning C4305: 'initializing': truncation from 'double' to 'float'
+  AdventureObjects.vcxproj -> C:\Users\Michael Temple\Documents\Test\x64\Debug\AdventureObjects.exe
+  AdventureObjects.vcxproj -> C:\Users\Michael Temple\Documents\Test\x64\Debug\AdventureObjects.pdb (Full PDB)
